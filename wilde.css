@@ -1,0 +1,19 @@
+.speech
+{
+    color: black;
+    font-size: 100%;
+}
+.stagedirection
+{
+    background-color:deepskyblue;
+}
+stagedirection:hover
+{
+    background-color: firebrick;
+    color :green ;
+}
+.name
+{
+    font-style: initial;
+    color :lawngreen;
+}
