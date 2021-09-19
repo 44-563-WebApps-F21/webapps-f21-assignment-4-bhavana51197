@@ -5,15 +5,16 @@
 }
 .stagedirection
 {
-    background-color:deepskyblue;
+    background-color: lightgreen;
+    color : black;
 }
-stagedirection:hover
+.stagedirection:hover 
 {
-    background-color: firebrick;
-    color :green ;
+    background-color: black;
+    color : red ;
 }
 .name
 {
     font-style: initial;
-    color :lawngreen;
+    color :black;
 }
