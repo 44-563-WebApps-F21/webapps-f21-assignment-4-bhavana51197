@@ -18,3 +18,21 @@
     font-style: italic;
     color :black;
 }
+table, th, td {
+	border: 1px black solid;
+    width: 25px;
+    text-align: center;
+    padding: 2px;
+    margin: 25px;
+    color : black;
+}
+th{
+    height: 30px;
+}
+tr:hover{
+    background-color: blue;
+    color: brown;
+}
+tr:nth-child(even) {
+    background-color: blueviolet;
+  }
