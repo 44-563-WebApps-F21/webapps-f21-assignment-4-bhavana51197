@@ -61,7 +61,27 @@ tr:hover{
 tr:nth-child(even) {
     background-color: blueviolet;
   }
-.name:hover{
+.MARCHMONT:hover{
     text-shadow: rgb(38, 106, 138) 1px 0 12px;
     border: 1px solid;
+}
+.BASILDON:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.MASON:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 3px solid;
+}
+.CAVERSHAM:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+}
+.LADYCHILTERN:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 2px solid;
+}
+.MABELCHILTERN:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 3px solid;
 }
