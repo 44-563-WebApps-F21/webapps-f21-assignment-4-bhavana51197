@@ -13,10 +13,35 @@
     background-color: black;
     color : red ;
 }
-.name
+.MARCHMONT
 {
     font-style: italic;
     color :black;
+}
+.BASILDON
+{
+    font-style: initial;
+    color :rgb(126, 110, 110);
+}
+.MASON
+{
+    font-style: inherit;
+    color : violet;
+}
+.CAVERSHAM
+{
+    font-style: italic;
+    color : brown;
+}
+.LADYCHILTERN
+{
+    font-style: initial;
+    color :hotpink;
+}
+.MABELCHILTERN
+{
+    font-style: inherit;
+    color : darkmagenta;
 }
 table, th, td {
 	border: 1px black solid;
@@ -36,3 +61,7 @@ tr:hover{
 tr:nth-child(even) {
     background-color: blueviolet;
   }
+.name:hover{
+    text-shadow: rgb(38, 106, 138) 1px 0 12px;
+    border: 1px solid;
+}
